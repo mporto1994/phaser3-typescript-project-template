@@ -5,5 +5,11 @@
     },
     "include": [
         "./src/**/*"
+    ],
+    "typeRoots": [
+        "./node_modules/phaser/types"
+        ],
+    "types": [
+    "Phaser"
     ]
 }
